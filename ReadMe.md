@@ -29,6 +29,14 @@ The license area is located by four points. They around license area from upper 
 
 <img src="1.png" style="zoom:50%;" />
 
+### some demo output examples
+
+ ![](real_imgs_demo_out\6.jpg)
+
+![](real_imgs_demo_out/28.jpg)
+
+
+
 ## statement
 
  This code will only be used for research purposes. 
