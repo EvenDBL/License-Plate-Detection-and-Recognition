@@ -1,0 +1,1 @@
+alphabet = "ABCDEFGHJKLMNPQRSTUVWXYZ0123456789皖沪津渝冀晋蒙辽吉黑苏浙京闽赣鲁豫鄂湘粤桂琼川贵云西陕甘青宁新警藏O学I"
