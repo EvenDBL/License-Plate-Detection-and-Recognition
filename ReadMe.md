@@ -27,7 +27,7 @@ For example:
 
 The license area is located by four points. They around license area from upper left with clockwise direction. As following picture:
 
-<img src="图片1.png" style="zoom:50%;" />
+<img src="1.png" style="zoom:50%;" />
 
 ## statement
 
